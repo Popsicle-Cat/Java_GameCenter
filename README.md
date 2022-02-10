@@ -1,2 +1,4 @@
-# Java_JetBrainsTicTacToe
-A simple game of tictactoe made as a study in java. The project ideia came from the study platform JetBrainsAcademy.
+# Java_GameCenter
+A program that allows you to play a variety of games.
+
+The functionality is very strait forward. You basically have to choose which game you want to play from the game list show in the main menu, and then the game will start.
